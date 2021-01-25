@@ -4,6 +4,8 @@
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
+**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://mp.weixin.qq.com/s/K0BHKqZohfK4jllzLyQA1g)
+
 **如何支持**：
 
 1. 关注我的公众号”**程序猿DD**“
@@ -38,7 +40,7 @@
             </a>
           </td>  
           <td align="center" valign="middle">
-            <a href="https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
+            <a href="https://curl.qcloud.com/M5wV9Ylj" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/005.jpg?raw=true">
             </a>
           </td> 
@@ -65,6 +67,7 @@
 - [Spring Boot 2.x基础教程：配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
 - [Spring Boot 2.x基础教程：2.4版本前后的多环境配置变化](http://blog.didispace.com/spring-boot-learning-24-1-4/)
 - [Spring Boot 2.x基础教程：2.4版本前后的分组配置变化](http://blog.didispace.com/spring-boot-learning-24-1-5/)
+- [Spring Boot 2.x基础教程：配置元数据的应用 ](http://blog.didispace.com/spring-boot-learning-24-1-6/)
 
 ### Web开发
 
@@ -89,7 +92,8 @@
 - [Spring Boot 2.x基础教程：Spring Data JPA的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-8/)
 - [Spring Boot 2.x基础教程：MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
 - [Spring Boot 2.x基础教程：事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
-
+- [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](http://blog.didispace.com/spring-boot-learning-24-3-11/)
+ 
 **加速利器：各种缓存的使用**
 
 - [Spring Boot 2.x基础教程：进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
@@ -101,6 +105,8 @@
 
 - [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
 - [Spring Boot 2.x基础教程：使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
+- [Spring Boot 2.x基础教程：实现文件上传](http://blog.didispace.com/spring-boot-learning-21-4-3/)
+- [Spring Boot 2.x基础教程：实现多文件上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
 
 ## 版本资讯
 
